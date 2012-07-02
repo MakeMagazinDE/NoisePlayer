@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<audacityproject projname="klug_b3_8_data" version="1.1.0" audacityversion="1.2.2" sel0="3.5169413502" sel1="3.5169413502" vpos="0" h="3.4910814873" zoom="77.3399306143" rate="32000.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="klug_b3_8" channel="2" linked="0" offset="0.00000000" rate="32000.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="524288" sampleformat="131073" numsamples="490303" >
+			<waveblock start="0" >
+				<pcmaliasblockfile summaryfile='b00000.auf' aliasfile='E:\Dropbox\NOISEPLAYER\GEN_SOUNDS\klug_b3_8.wav' aliasstart='0' aliaslen='490303' aliaschannel='0' min='-0.992188' max='0.843750' rms='0.133290'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='2'>
+			<controlpoint t='5.249552162447' val='1.053846153846'/>
+			<controlpoint t='5.378851476793' val='0.684615384615'/>
+		</envelope>
+	</wavetrack>
+</audacityproject>
